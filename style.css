@@ -1,0 +1,53 @@
+
+.detailed-view-bg-container {
+    background-image: url("https://img.freepik.com/free-photo/3d-plexus-background-with-connecting-lines-dots_1048-11704.jpg?size=626&ext=jpg&ga=GA1.1.1036203639.1693324584&semt=ais");
+
+    background-size: cover;
+    padding-bottom: 35px;
+    padding-left: 60px;
+    padding-right:60px;
+
+}
+
+.detailed-view-heading {
+    color: white;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+    padding: 24px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.detailed-view-card-heading {
+    color: #0f0e46;
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.detailed-view-card-description {
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+
+.detailed-view-card-text-container {
+    padding: 16px;
+}
+
+.image-styles {
+
+    height: 70vh;
+
+
+
+}
